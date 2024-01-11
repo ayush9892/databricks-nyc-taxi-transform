@@ -27,7 +27,6 @@
 
 ### Non Functional Requirements
 
-1. Campaign to encourage credit card payments
    - Reporting data to be pre-aggregated for better performance
    - Pre-aggregate data for each year/ month partition in isolation
    - Able to read data efficiently for specific months from aggregated data
