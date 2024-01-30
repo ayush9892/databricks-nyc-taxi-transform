@@ -1,4 +1,4 @@
-# trans-nyc-taxi-data
+# databricks-nyc-taxi-transform
 
 ### Concept of the Project 💡
 - This project involves the acquisition of several NYC Taxi Trip Datasets from the New York City Taxi services. The primary objective is to transform the datasets using PySpark in Databricks and then load the resultant data into Delta Lake to get the useful insights from them. 
